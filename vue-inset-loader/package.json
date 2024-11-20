@@ -10,10 +10,7 @@
   "author": "鹅鹅鹅 <1977474741@qq.com>",
   "license": "ISC",
   "dependencies": {
-    "strip-json-comments": "^2.0.1",
-    "vue-template-compiler": "^2.6.10"
-  },
-  "devDependencies": {
-    "vue-inset-loader": "^1.2.6"
+    "vue-template-compiler": "^2.6.10",
+    "strip-json-comments": "^2.0.1"
   }
 }
